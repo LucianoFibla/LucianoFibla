@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucianoFibla
 - 👀 I’m interested in web development, information security and network communications.
-- 🌱 I’m currently learning Python & Linux (Kali).
+- 🌱 I’m currently learning Python & Linux fundamentals.
 - 💞️ I’m looking to collaborate on any project related to my interests and that can add value from a distance.
 - 📫 How to reach me : Luciano.fibla@hotmail.es
 
